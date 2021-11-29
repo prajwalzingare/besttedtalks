@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  margin: 0 auto;
+  align-items: center;
+}
+.button {
+  background: yellowgreen;
+  font-size: 12px;
+  font-weight: bold;
+  border: 1px solid black;
+  margin: 1vw;
+  border-radius: 6px;
+  width: 100px;
+  height: 35px;
+}
+.list-div {
+  background-color: rgba(133, 133, 133, 0.151);
+  margin: 1vw auto;
+  border-radius: 6px;
+  width: 60%;
+  height: 120px;
+  padding: 12px;
+  text-align: left;
+  font-size: larger;
+}
